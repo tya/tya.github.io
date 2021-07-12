@@ -1,5 +1,3 @@
-<!DOCTYPE html> 
-
 <html> 
 <head> 
 <title>Home Questionnaire<span id="selection-marker-1" class="redactor-selection-marker"></span></title> 
